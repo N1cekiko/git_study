@@ -1,1 +1,1 @@
-# git_study
+# git_studygit use more learn more
